@@ -1,0 +1,37 @@
+Package: ta-lib
+Version: 0.4.0
+Architecture: amd64
+Maintainer: Roy Ratcliffe <roy@pioneeringsoftware.co.uk>
+Installed-Size: 921
+Depends: libc6 (>= 2.14)
+Homepage: http://www.ta-lib.org/
+Priority: extra
+Section: libs
+Filename: pool/main/t/ta-lib/ta-lib_0.4.0_amd64.deb
+Size: 255428
+SHA256: 7d6647120d711cfd19ee883898b690e3817845aedaa12d0ecdc5684eec9f237a
+SHA1: b72400a4f958a180a19faf1de784b38dc2d826e0
+MD5sum: 5c4f45a7c3a57f67c69fccc14ab1bc06
+Description: Technical Analysis Library
+ TA-Lib is widely used by trading software developers requiring to perform
+ technical analysis of financial market data.
+
+Package: ta-lib-dev
+Source: ta-lib
+Version: 0.4.0
+Architecture: amd64
+Maintainer: Roy Ratcliffe <roy@pioneeringsoftware.co.uk>
+Installed-Size: 1620
+Depends: ta-lib (= 0.4.0)
+Homepage: http://www.ta-lib.org/
+Priority: extra
+Section: libdevel
+Filename: pool/main/t/ta-lib/ta-lib-dev_0.4.0_amd64.deb
+Size: 316814
+SHA256: c222edfa8c6957e9608c2dc6ad8b75725ee569506f2f1c7fc4a32fd0b08e2243
+SHA1: 30040d7fe0de7fbf0db3875078436527018656c2
+MD5sum: b9028a90d5c642d710bf764814797daa
+Description: Technical Analysis Library
+ TA-Lib is widely used by trading software developers requiring to perform
+ technical analysis of financial market data.
+
